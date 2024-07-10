@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="Mag">#A03DD8</color>
+    <color name="Mag2">#4DA03DD8</color>
+    <color name="blue">#003399</color>
+    <color name="LightSalmon">#FFA07A</color>
+</resources>
